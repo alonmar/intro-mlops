@@ -1,0 +1,1 @@
+[![MLOPs user default predict Github Actions](https://github.com/alonmar/intro-mlops/actions/workflows/main.yml/badge.svg)](https://github.com/alonmar/intro-mlops/actions/workflows/main.yml)
