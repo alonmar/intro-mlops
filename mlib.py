@@ -137,7 +137,7 @@ def human_readable_payload(pred_proba, threshold):
     pred_class = pred_proba > threshold
 
     if pred_class:
-        pred_class = "Moroso"
+        pred_class = "Deudor"
     else:
         pred_class = "No Moroso"
 
